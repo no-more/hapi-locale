@@ -1,6 +1,6 @@
 {
   "name": "hapi-locale",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Configurable plugin for determine request language in hapi.js applications.",
   "main": "index.js",
   "repository": {
@@ -23,16 +23,16 @@
   "license": "MIT",
   "dependencies": {
     "accept-language-parser": "^1.0.2",
-    "boom": "^7.1.1",
-    "joi": "^13.1.0",
-    "lodash": "^4.17.4",
-    "node-polyglot": "2.2.2"
+    "boom": "^7.3.0",
+    "joi": "^14.3.0",
+    "lodash": "^4.1711",
+    "node-polyglot": "2.3.0"
   },
   "devDependencies": {
-    "code": "^1.5.0",
-    "hapi": "^17.2.0",
-    "hoek": "^5.0.2",
-    "lab": "^6.2.0",
+    "code": "^5.2.4",
+    "hapi": "^17.8.1",
+    "hoek": "^6.1.1",
+    "lab": "^18.0.0",
     "rewire": "^2.3.4",
     "zoo-jsdoc": "0.0.1"
   },
